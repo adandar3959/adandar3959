@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+SaaS+Applications;System+Design+Learner;Future+Software+Architect&center=true&width=500&height=55">
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQyaWd4aWF0dXF4OWpsb2R1bDYzZGg4ZXo3YnVxZTV3ZjVxdzZqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyjrpqaUVqCELGuQVr/giphy.gif" height="350" width="300"/>
-
 <br>
 
 ## 👨‍💻 About Me  
