@@ -78,22 +78,6 @@
 
 ---
 
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adandar3959&theme=tokyo-night" />
-</p>
-
----
-
-## ✨ Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Contact Me  
 
 <p align="left">
