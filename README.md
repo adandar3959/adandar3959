@@ -1,80 +1,47 @@
-<h1 align="center">Hi 👋, I'm Adan Dar</h1>
-<h3 align="center">🚀 Full Stack Developer | SaaS Builder | System Design Enthusiast</h3>
+<h1 align="center">Hi, I'm Adan Dar</h1>
+<h3 align="center">Full Stack Developer | System Design </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+SaaS+Applications;System+Design+Learner;Future+Software+Architect&center=true&width=500&height=55">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+SaaS+Applications&center=true&width=500&height=55">
 </p>
 
 <br>
 
 ## 👨‍💻 About Me  
 
-- 🔥 Building **Scalable SaaS Applications**
-- 💻 Passionate **Full Stack Developer**
-- 🧠 Focused on **Backend + System Design**
-- ⚡ Love solving **real-world problems**
-- 🚀 Always learning & improving
+- Building **Scalable SaaS Applications**
+- Passionate **Full Stack Developer**
+- Focused on **Backend + System Design**
+- Always learning & improving
 
 ---
 
-## 🚀 Tech Stack  
+<!-- Skills & Tech Stack -->
+<h3 style="font-weight: 500; font-size: 1.3rem; color: #1AF7DC; margin-bottom: 0.3em;">
+  Skills & Tech Stack
+</h3>
 
-### 💻 Languages  
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus)  
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java)  
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)  
-
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)  
-![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart)  
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)  
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)  
-
-### 🛢️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adandar3959&theme=tokyonight" />
-</p>
-
----
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,js,postman,mysql,git,github,docker,flask,mongodb,firebase&theme=dark)](https://github.com/adandar3959)
 
 ## 🔥 Featured Projects  
 
-### 🛍️ Luxe Store  
-[![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/adandar3959/luxe-store)  
+<p align="center">
+  <a href="https://github.com/adandar3959/luxe-store">
+    <img src="https://img.shields.io/badge/Luxe_Clothing_Store-0A0A0A?style=for-the-badge&logo=github" />
+  </a>
 
-- Modern e-commerce platform  
-- Clean UI & scalable structure  
-- Real-world shopping experience  
+  <a href="https://github.com/adandar3959/luxe-store-app">
+    <img src="https://img.shields.io/badge/Luxe_Store_App-0A0A0A?style=for-the-badge&logo=github" />
+  </a>
 
----
+  <a href="https://github.com/adandar3959/dsa-visualizer">
+    <img src="https://img.shields.io/badge/DSA_Visualizer-0A0A0A?style=for-the-badge&logo=github" />
+  </a>
 
-### 📱 Luxe Store App  
-[![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/adandar3959/luxe-store-app)  
-
-- Mobile-based e-commerce solution  
-- Built with modern frontend stack  
-- Focus on user experience  
-
----
-
-### 🍽️ Restaurant SaaS Platform  
-[![Repo](https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=github)](https://github.com/adandar3959/restaurant_saas_platform)  
-
-- SaaS platform for restaurants  
-- Multi-user scalable system  
-- Backend-focused architecture  
+  <a href="https://github.com/adandar3959/restaurant_saas_platform">
+    <img src="https://img.shields.io/badge/Restaurant_SaaS_Application-0A0A0A?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
