@@ -25,26 +25,43 @@
 
 ## 🔥 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/adandar3959/luxe-store">
-    <img src="https://img.shields.io/badge/Luxe_Clothing_Store-0A0A0A?style=for-the-badge&logo=github" />
-  </a>
+<table>
+<tr>
+<td width="50%">
 
-  <a href="https://github.com/adandar3959/luxe-store-app">
-    <img src="https://img.shields.io/badge/Luxe_Store_App-0A0A0A?style=for-the-badge&logo=github" />
-  </a>
+### 🛍️ Luxe Clothing Store  
+Modern E-commerce Platform  
+🔗 [View Repository](https://github.com/adandar3959/luxe-store)
 
-  <a href="https://github.com/adandar3959/dsa-visualizer">
-    <img src="https://img.shields.io/badge/DSA_Visualizer-0A0A0A?style=for-the-badge&logo=github" />
-  </a>
+</td>
+<td width="50%">
 
-  <a href="https://github.com/adandar3959/restaurant_saas_platform">
-    <img src="https://img.shields.io/badge/Restaurant_SaaS_Application-0A0A0A?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### 📱 Luxe Store App  
+Mobile Commerce Solution  
+🔗 [View Repository](https://github.com/adandar3959/luxe-store-app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 DSA Visualizer  
+Interactive Learning Tool  
+🔗 [View Repository](https://github.com/adandar3959/DSA-Visualizer)
+
+</td>
+<td width="50%">
+
+### 🍽️ Restaurant SaaS Application  
+Scalable SaaS Platform  
+🔗 [View Repository](https://github.com/adandar3959/restaurant_saas_platform)
+
+</td>
+</tr>
+</table>
 
 ---
-
 ## 🌐 Contact Me  
 
 <p align="left">
